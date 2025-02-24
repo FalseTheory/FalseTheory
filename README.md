@@ -1,4 +1,18 @@
-## Hi there 👋
+# Список технологий с которыми работал
+- git
+- Telegram API
+- Java SE
+- Юнит тесты c помощью Junit
+- Mock тестирование
+- Docker, Docker Compose
+- Maven
+- HTML\CSS
+- Spring boot
+# Прочие навыки
+- Английский уровень B2
+## Контакты
+**email:** Fairgravez@yandex.ru
+
 
 <!--
 **FalseTheory/FalseTheory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
