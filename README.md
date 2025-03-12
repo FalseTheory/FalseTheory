@@ -1,7 +1,8 @@
 # Список технологий с которыми работал
 - ![git](https://img.shields.io/badge/git-white?style=flat&logo=git&logoColor=black)
 - ![Telegram API](https://img.shields.io/badge/Telegram_API-blue?style=flat&logo=telegram&logoColor=white)
-- ![Java SE](https://img.shields.io/badge/Java_SE-orange?style=flat&logo=openjdk&logoColor=white)![Junit](https://img.shields.io/badge/JUnit-orange?style=flat&logoColor=white)
+- ![Java SE](https://img.shields.io/badge/Java_SE-orange?style=flat&logo=openjdk&logoColor=white) - Простой ![калькулятор](https://github.com/FalseTheory/Calc_Java) на java
+- ![Junit](https://img.shields.io/badge/JUnit-orange?style=flat&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)![Docker Compose](https://img.shields.io/badge/Docker_Compose-blue?style=flat&logo=docker&logoColor=white)
 - ![Maven](https://img.shields.io/badge/Maven-black?style=flat&logo=maven&logoColor=white)
 - ![HTML](https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)
