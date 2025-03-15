@@ -6,7 +6,7 @@
 - ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)![Docker Compose](https://img.shields.io/badge/Docker_Compose-blue?style=flat&logo=docker&logoColor=white)
 - ![Maven](https://img.shields.io/badge/Maven-black?style=flat&logo=maven&logoColor=white)
 - ![HTML](https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)
-- ![Spring boot](https://img.shields.io/badge/Spring_Boot-green?style=flat&logo=spring&logoColor=white) - Проект ![ShareIT](https://github.com/FalseTheory/java-explore-with-me) на SpringBoot
+- ![Spring boot](https://img.shields.io/badge/Spring_Boot-green?style=flat&logo=spring&logoColor=white) - Проект ![ShareIT](https://github.com/FalseTheory/java-explore-with-me) на SpringBoot, Проект ![JavaNotes][https://github.com/FalseTheory/Java_Notes]
 - ![MockMVC](https://img.shields.io/badge/mockMvc-orange?style=flat&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-yellow?style=flat&logo=mysql&logoColor=white)
