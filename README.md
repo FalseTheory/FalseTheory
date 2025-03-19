@@ -4,7 +4,8 @@
 - ![Java SE](https://img.shields.io/badge/Java_SE-orange?style=flat&logo=openjdk&logoColor=white) - Простой ![калькулятор](https://github.com/FalseTheory/Calc_Java) на java, ![Программа](https://github.com/FalseTheory/SudokuSolver_Java) для решения и генерации судоку 
 - ![Junit](https://img.shields.io/badge/JUnit-orange?style=flat&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)![Docker Compose](https://img.shields.io/badge/Docker_Compose-blue?style=flat&logo=docker&logoColor=white)
-- ![Maven](https://img.shields.io/badge/Maven-black?style=flat&logo=maven&logoColor=white)
+- ![Maven](https://img.shields.io/badge/Maven-black?style=flat&logo=maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-blue?style=flat)
+
 - ![HTML](https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)
 - ![Spring boot](https://img.shields.io/badge/Spring_Boot-green?style=flat&logo=spring&logoColor=white) - Проект ![ShareIT](https://github.com/FalseTheory/java-explore-with-me) на SpringBoot, Проект ![JavaNotes](https://github.com/FalseTheory/Java_Notes)
 - ![MockMVC](https://img.shields.io/badge/mockMvc-orange?style=flat&logoColor=white)
