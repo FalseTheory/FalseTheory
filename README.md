@@ -11,6 +11,8 @@
 - ![MockMVC](https://img.shields.io/badge/mockMvc-orange?style=flat&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-yellow?style=flat&logo=mysql&logoColor=white)
+- ![JMeter](https://img.shields.io/badge/JMeter-white?style=flat&logo=jmeter&color=red)
+
 
 # Прочие навыки
 - Английский уровень B2
