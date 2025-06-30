@@ -12,6 +12,7 @@
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-yellow?style=flat&logo=mysql&logoColor=white)
 - ![JMeter](https://img.shields.io/badge/JMeter-white?style=flat&logo=jmeter&color=red)
+- ![Github Workflows](https://img.shields.io/badge/GitHub_Workflows-blue)
 
 
 # Прочие навыки
